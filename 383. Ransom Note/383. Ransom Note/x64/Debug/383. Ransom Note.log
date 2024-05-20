@@ -1,0 +1,4 @@
+﻿  383. Ransom Note.cpp
+C:\Users\admin\Desktop\zadania\projekty C++\383. Ransom Note\383. Ransom Note\383. Ransom Note.cpp(23,38): warning C4244: "=": konwersja z "unsigned __int64" do "double", możliwa utrata danych
+C:\Users\admin\Desktop\zadania\projekty C++\383. Ransom Note\383. Ransom Note\383. Ransom Note.cpp(24,26): warning C4244: "argument": konwersja z "double" do "const unsigned __int64", możliwa utrata danych
+  383. Ransom Note.vcxproj -> C:\Users\admin\Desktop\zadania\projekty C++\383. Ransom Note\x64\Debug\383. Ransom Note.exe
