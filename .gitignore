@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+
+# Build artifacts
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.obj
+*.lib
+*.pdb
+*.exe
+*.ilk
+*.out
+
+# Others
+*.opensdf
+*.sdf
